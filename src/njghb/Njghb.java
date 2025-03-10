@@ -15,7 +15,6 @@ public class Njghb {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Niken Ayu Zaskia F.");
         System.out.println("Hello Word");
         System.out.println("(202457201057)");
     }
